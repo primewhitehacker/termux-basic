@@ -1,4 +1,4 @@
-# termux-basic
+
 pkg install git -y
 pkg install python -y
 pkg install python2 -y
@@ -13,3 +13,4 @@ pip2 install requests
 pip2 install mechanize
 pkg install perl
 pkg install ruby
+y
